@@ -1,0 +1,14 @@
+body {
+    background-color: #f2fdff;
+    font-family: sans-serif;
+    color: #101935;
+}
+.different-font {
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+li {
+    color: #564787;
+}
+a {
+    text-decoration: none;
+}
