@@ -12,3 +12,14 @@ li {
 a {
     text-decoration: none;
 }
+#profile-picture {
+    width: 200px;
+    float: left;
+    margin-left: 10px;
+}
+.description {
+    margin-bottom: 400px;
+}
+h1 {
+    text-align: center;
+}
