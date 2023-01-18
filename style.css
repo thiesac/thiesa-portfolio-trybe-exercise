@@ -14,11 +14,18 @@ a {
 }
 #profile-picture {
     width: 200px;
-    float: left;
     margin-left: 10px;
+    border-radius: 50%;
 }
-.description {
-    margin-bottom: 400px;
+.description-left {
+    float: left;
+}
+.description-right {
+    margin-top: 70px;
+    float: right;
+}
+.about {
+    clear: both;
 }
 h1 {
     text-align: center;
